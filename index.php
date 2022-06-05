@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Vardani</title>
+<title>Hotel Vardani</title>
 <link rel="stylesheet" href="css/mystyle.css">
 
 <!-- For icons adding library-->
